@@ -13,4 +13,4 @@ The percentage of orders that were delivered, cancelled, or returned.
 Overall performance of the store in 2022.
 
 ##Dataset Used 
-- <a href="https://https://github.com/omkartech-debug/vrinda-store-data-analysis/blob/main/Vrinda%20Store%20Data%20Analysis%20project.xlsx">Dataset</a>
+- <a href="https://github.com/omkartech-debug/vrinda-store-data-analysis/blob/main/Vrinda%20Store%20Data%20Analysis%20project.xlsx">Dataset</a>

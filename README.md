@@ -54,7 +54,7 @@ It marks the beginning of my journey as a Data Analyst, and I’m excited to exp
 🔗 Project Links
 
 🖼️ Screenshot Commit
-<a href="https://github.com/omkartech-debug/vrinda-store-data-analysis/blob/main/Vrinda%20Store%20Data%20Analysis%20project.xlsx">Dataset</a>
+<a href="https://github.com/omkartech-debug/vrinda-store-data-analysis/blob/main/data%20analyst%20project%20screenshot.png">Dataset</a>
 
 ⬇️ Download Excel File
 <a href="https://github.com/omkartech-debug/vrinda-store-data-analysis/blob/main/Vrinda%20Store%20Data%20Analysis%20project.xlsx">Dataset</a>

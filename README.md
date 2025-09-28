@@ -11,3 +11,6 @@ Which months, states, and channels contributed the most to sales.
 How gender and age groups impacted purchase behavior.
 The percentage of orders that were delivered, cancelled, or returned.
 Overall performance of the store in 2022.
+
+##Dataset Used 
+- <a href="https://github.com/omkartech-debug/vrinda-store-data-analysis">Dataset</a>

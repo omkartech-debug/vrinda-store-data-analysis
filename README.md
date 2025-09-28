@@ -32,7 +32,9 @@ Creating insightful dashboards using Pivot Charts and Tables.
 Deriving meaningful business insights from raw data.
 Visual storytelling with data to support decision-making.
 
-🧩 Dashboard Preview
+🧩 Dashboard 
+<img width="960" height="509" alt="data analyst project screenshot" src="https://github.com/user-attachments/assets/46935f9f-600a-4361-97d3-6f23c9412ab8" />
+
 
 👨‍💻 About Me
 Hi! I’m [Omkar Khollam], an aspiring Data Analyst.

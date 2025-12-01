@@ -1,7 +1,7 @@
 # vrinda-store-data-analysis
 Excel Dashboard project analyzing Vrinda Store sales performance (2022)
 
-📊 Vrinda Store Annual Report 2022
+📊 Vrinda Store Annual Report 2022.
 This is my first Data Analytics project, where I analyzed the sales performance of Vrinda Store for the year 2022 using Microsoft Excel.
 The main objective of this project was to understand sales trends, customer behavior, and the top-performing channels that helped Vrinda Store grow.
 
